@@ -95,7 +95,7 @@
     "mocha": "^6.1.4",
     "ramda": "0.17.x",
     "rimraf": "^2.6.3",
-    "rollup": "^0.68.2",
+    "rollup": "^4.24.0",
     "rollup-plugin-uglify": "^6.0.2",
     "sanctuary": "0.7.x",
     "sinon": "^7.3.2",
