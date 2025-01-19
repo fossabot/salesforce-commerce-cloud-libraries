@@ -114,6 +114,8 @@ ___
     response.writer.print(doc.output())
 ```
 # Linting
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsalesforce-commerce-cloud-libraries.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsalesforce-commerce-cloud-libraries?ref=badge_shield)
+
 Currently the same setup is used as SFRA. You can run a linting test with:
 
 ```
@@ -127,3 +129,7 @@ If you yourself are unable to convert a library and want met to have a look, fee
 
 If you want to contribute code feel free to read the
 [contributing](./CONTRIBUTING.md) readme.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsalesforce-commerce-cloud-libraries.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsalesforce-commerce-cloud-libraries?ref=badge_large)
